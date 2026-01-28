@@ -28,7 +28,7 @@ Built using **Flutter**, **Riverpod**, **Hive**, **Dio**, and the **Pexels API**
 - Shimmer effect while loading  
 
 ### ⭐ Save Pins  
-- Save any image with one tap ❤️  
+- Save any image with one tap   
 - Saved images show in Profile tab  
 - Stored locally using Hive  
 
